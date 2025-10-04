@@ -1,0 +1,1 @@
+print("Hola, este es una prueba de un script en python")
